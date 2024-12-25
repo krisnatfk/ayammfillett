@@ -88,7 +88,7 @@ body {
 /* banner */
 
 .banner {
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/image/wood-background-1.jpg');
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('image/wood-background-1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -364,7 +364,7 @@ svg {
 /* produk banner */
 .produk-banner {
     height: 55vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../image/stewed-chicken-drumsticks-galangal-garlic-lemon.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/stewed-chicken-drumsticks-galangal-garlic-lemon.jpg');
     background-size: cover;
     background-position: center;
 }
